@@ -1,0 +1,8 @@
+* Langston's ant
+This is a [[https://en.wikipedia.org/wiki/Langton%2527s_ant][Langston's ant]] simulation written in [[https://processing.org/][Processing]].
+
+This code was inspired by Dan Shiffman's [[https://www.youtube.com/watch?v=G1EgjgMo48U][video]]. The twist here is that
+everytime the ant steps on a non-white cell on the board the cell will
+be painted with a random color.
+
+[[file:images/Screenshot_20180110_225158.png][Screenshot]]
